@@ -1,3 +1,2 @@
-a="hello"
-b="world"
-print(a+b)
+for x in range (10):
+ print("hello world")
